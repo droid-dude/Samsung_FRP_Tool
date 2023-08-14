@@ -1,0 +1,13 @@
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\bin\Release\Shark Clone.exe.config
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\bin\Release\Shark Clone.exe
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\bin\Release\Shark Clone.pdb
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Samsung FRP Tool.csproj.AssemblyReference.cache
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Shark_Clone.Form1.resources
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Shark_Clone.Properties.Resources.resources
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Samsung FRP Tool.csproj.GenerateResource.cache
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Samsung FRP Tool.csproj.CoreCompileInputs.cache
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Samsung FRP Tool.csproj.CopyComplete
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Shark Clone.exe
+C:\Users\Arber\source\repos\Shark Clone\Shark Clone\obj\Release\Shark Clone.pdb
